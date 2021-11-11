@@ -12,6 +12,6 @@ function clicked(str){
 	clicksound.play();
 }
 function click_link() {
-	window.alert("Hihi tớ cx iu cậu nhắmmmmmm !!!");
+	window.alert("Hihi tớ cx iu cậu nhắmmmmmm !!! Cùng nhau ib nèo :))))");
 	window.open("https://www.facebook.com/mkhonglui.1918/","_self")
 }
